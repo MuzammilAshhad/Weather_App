@@ -15,9 +15,9 @@ Made with ❤️ by **Muzammil Rajput**
 > *(Add your screenshots inside a `/screenshots` folder and update links below)*
 
 <kbd>
-  <img src="https://github.com/MuzammilAshhad/Weather_App/blob/main/screenshots/1.png" width=30% />
-  <img src="https://github.com/MuzammilAshhad/Weather_App/blob/main/screenshots/2.png" width=30% />
-  <img src="https://github.com/MuzammilAshhad/Weather_App/blob/main/screenshots/3.png" width=30% />
+  <img src="https://github.com/MuzammilAshhad/Weather_App/blob/master/screenshots/1.jpg" width=30% height=30% />
+  <img src="https://github.com/MuzammilAshhad/Weather_App/blob/master/screenshots/2.jpg" width=30% height=30% />
+  <img src="https://github.com/MuzammilAshhad/Weather_App/blob/master/screenshots/3.jpg" width=30% height=30% />
 </kbd>
 
 ---

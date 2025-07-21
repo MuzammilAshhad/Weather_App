@@ -12,8 +12,6 @@ Made with ❤️ by **Muzammil Rajput**
 
 ## 📸 Screenshots:
 
-> *(Add your screenshots inside a `/screenshots` folder and update links below)*
-
 <kbd>
   <img src="https://github.com/MuzammilAshhad/Weather_App/blob/master/screenshots/1.jpg" width=30% height=30% />
   <img src="https://github.com/MuzammilAshhad/Weather_App/blob/master/screenshots/2.jpg" width=30% height=30% />

@@ -1,8 +1,8 @@
 # 🌦️ Weather Pulse – Flutter Weather App
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Dart](https://img.shields.io/badge/Dart-100%25-blue)
-![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-purple)
+![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
+![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
 
 **A sleek and responsive Weather App built with Flutter & powered by OpenWeatherMap API.**  
 Made with ❤️ by **Muzammil Rajput**
